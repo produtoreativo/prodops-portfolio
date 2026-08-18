@@ -55,7 +55,7 @@ Framework; the Framework does not depend on them. See [`local/README.en.md`](loc
 
 | Skill | Purpose | Link |
 |---|---|---|
-| — | No local skills yet. Add them under `local/`. | — |
+| obc-partitioning | Decomposes a Global OBC into Local OBCs per product repo with sub-issues, Project #30 fields, and traceability | [local/obc-partitioning/SKILL.md](local/obc-partitioning/SKILL.md) |
 
 ## Engineering References
 

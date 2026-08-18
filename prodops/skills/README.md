@@ -55,7 +55,7 @@ Framework não depende delas. Ver [`local/README.md`](local/README.md).
 
 | Skill | Propósito | Link |
 |---|---|---|
-| — | Nenhuma skill local ainda. Adicionar em `local/`. | — |
+| obc-partitioning | Decompõe um Global OBC em Local OBCs por produto repo com sub-issues, Project #30 e rastreabilidade | [local/obc-partitioning/SKILL.md](local/obc-partitioning/SKILL.md) |
 
 ## Referências de engenharia
 
