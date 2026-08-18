@@ -57,7 +57,7 @@ github:
   repository: "prodops-portfolio"
   projects:
     product_repository:
-      number: 0          # replace with your GitHub Project number when created
+      number: 30
       name: "prodops-portfolio"
 
 commit:

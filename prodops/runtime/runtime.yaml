@@ -11,7 +11,7 @@ cloud-events:
 github:
   owner: produtoreativo
   repository: prodops-portfolio
-  project-number: 0              # replace with your GitHub Projects v2 board number when created
+  project-number: 30
   pilot-issue: 0                 # optional: a known issue number used by runtime-doctor.sh
 
 datadog:
