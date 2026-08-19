@@ -122,7 +122,7 @@ gh api repos/produtoreativo/prodops-portfolio/issues/{global-bi-issue}/sub_issue
 **Action:** Update the "Rastreabilidade de Local OBCs" table in `{global-obc-path}`:
 
 ```markdown
-| {repo} | `prodops/artifacts/obcs/local-{bi-id-slug}-{repo}.md` | [{repo}#{number}]({issue-url}) | Draft (aguardando PR no repo) | {YYYY-MM-DD} |
+| {repo} | `prodops/artifacts/obcs/local-{bi-id-slug}-{repo}.md` | [{repo}#{number}](https://github.com/{org}/{repo}/issues/{number}) | Draft (aguardando PR no repo) | {YYYY-MM-DD} |
 ```
 
 Replace the placeholder row for this repo. Do not modify any other section of the Global OBC.
