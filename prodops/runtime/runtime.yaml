@@ -58,3 +58,4 @@ skills:
   delivery:           prodops/skills/delivery/SKILL.md
   restart:            prodops/skills/restart/SKILL.md
   # local-testing: prodops/skills/local/YOUR_PRODUCT-local-testing/SKILL.md  # add your own
+  obc-partitioning: prodops/skills/local/obc-partitioning/SKILL.md

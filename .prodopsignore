@@ -30,3 +30,9 @@ prodops/scripts/local/
 
 # ── Product-local references ──────────────────────────────────────────────────
 prodops/skills/references/local/
+
+# ── Consumer root READMEs ──────────────────────────────────────────────────────
+# These are consumer-specific READMEs that replace the framework's own README.
+# They use correct prodops/ paths for a consumer repo (not the framework repo root).
+README.md
+README.en.md
