@@ -55,7 +55,7 @@ Framework; the Framework does not depend on them. See [`local/README.en.md`](loc
 
 | Skill | Purpose | Link |
 |---|---|---|
-| obc-partitioning | Decomposes a Global OBC into Local OBCs per product repo with sub-issues, Project #30 fields, and traceability | [local/obc-partitioning/SKILL.md](local/obc-partitioning/SKILL.md) |
+| `payments-api-local-testing` | Run and validate local tests with payment contracts | [local/payments-api-local-testing/SKILL.md](local/payments-api-local-testing/SKILL.md) |
 
 ## Engineering References
 
