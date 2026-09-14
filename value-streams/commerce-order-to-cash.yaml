@@ -1,0 +1,28 @@
+name: commerce-order-to-cash
+displayName: Commerce Order to Cash
+description: Value Stream that composes the commerce frontend and backend repositories from storefront to payment.
+repositories:
+  - name: webshop
+    path: ../webshop
+    role: frontend
+    access:
+      read: true
+      write: true
+  - name: webshop-api
+    path: ../webshop-api
+    role: api
+    access:
+      read: true
+      write: true
+  - name: order-mgmt-api
+    path: ../order-mgmt-api
+    role: order-management
+    access:
+      read: true
+      write: true
+  - name: payments-api
+    path: ../payments-api
+    role: payments
+    access:
+      read: true
+      write: true
